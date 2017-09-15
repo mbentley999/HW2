@@ -1,12 +1,14 @@
 body{color: white; background-color: black;}
 h2{color: red}
-h3{color: pink}
+h3{color: darkred;}
+h4{color: black;}
 
 .resume{
 	text-align: left;
 	background-color: white;
 	color: black;
-	border-color: red;
+	border-style: solid;
+	border-color: darkred;
 	border-width: 4px;
 	padding: 10px;
 }
@@ -21,5 +23,6 @@ h3{color: pink}
 }
 
 .spic{
-	s
+	border-style: dashed;
+	float: left;
 }
