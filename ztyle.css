@@ -1,0 +1,25 @@
+body{color: white; background-color: black;}
+h2{color: red}
+h3{color: pink}
+
+.resume{
+	text-align: left;
+	background-color: white;
+	color: black;
+	border-color: red;
+	border-width: 4px;
+	padding: 10px;
+}
+
+.wrap{
+	margin: 0 auto;
+	width: 75%;
+}
+
+.fpic{
+	float: right;
+}
+
+.spic{
+	s
+}
